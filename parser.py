@@ -34,7 +34,3 @@ def read_vox_file(file_path):
             'size': (size_x, size_y, size_z),
             'voxels': voxels
         }
-
-
-
-
